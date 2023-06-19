@@ -1,0 +1,40 @@
+Body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(233, 212, 215);
+}
+
+a:hover{
+    color:cadetblue;
+}
+
+a:visited{
+    Color:  lightpink;
+}
+
+.boldMe{
+    font-weight: bold;
+}
+
+.underlineMe{
+    text-decoration: underline;
+}
+
+.alignMe{
+    text-align: left;
+}
+
+.indexBackground{
+    Background-image: url(https://www.bordeaux-tourismus.de/sites/bordeaux_tourisme/files/medias/widgets/misc/Miroir%20d_eau%C2%A9Steve%20Le%20Clech%20Photos.jpg);
+}
+.box1{
+    border-width: lpx;
+    border-style: solid;
+}
+
+.box2{
+    padding: 5px;
+}
+
+.box3{
+    margin: 50px;
+} 
